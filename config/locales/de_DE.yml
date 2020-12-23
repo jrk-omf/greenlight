@@ -318,7 +318,7 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "Für den Zugriff auf dieses System benötigst du einen Login, den du bei der %{href} anfordern kannst."
+    about: "Für den Zugriff auf dieses System benötigst du einen Login, den du bei %{href} anfordern kannst."
     welcome: Willkommen in der JRK Laberbox des Jugendrotkreuzes Ober- und Mittelfranken.
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
